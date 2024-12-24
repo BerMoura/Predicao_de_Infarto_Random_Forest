@@ -8,8 +8,8 @@ Teste inicial com Random Forest padrão.
 Ajuste de hiperparâmetros com GridSearchCV.
 Alteração de thresholds para priorizar o recall.
 
-Avaliação do Modelo Final:
-Acurácia: 76%
+Acurácia:76%
+
 Recall (Infartos): 95%
 
 O modelo final alcançou:
